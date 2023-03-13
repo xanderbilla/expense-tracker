@@ -1,0 +1,14 @@
+.expenses-list {
+  list-style: none;
+  padding: 0;
+}
+
+.expenses-list__fallback {
+  color: white;
+  text-align: center;
+}
+
+.filter-message{
+  text-align: center;
+  color: rgba(212, 209, 214, 0.514);
+}
